@@ -167,21 +167,21 @@ const ITALIAN_PHRASES = [
 const DIFFICULTY_SETTINGS = {
   facile: {
     label: "Facile",
-    phraseTimeLimit: 4,
+    phraseTimeLimit: 8,
     timeBonusOnSuccess: 2,
     costRange: [1, 3],
     spawnIncrementSpeed: 1
   },
   medio: {
     label: "Medio",
-    phraseTimeLimit: 8,
+    phraseTimeLimit: 11,
     timeBonusOnSuccess: 3,
     costRange: [2, 4],
     spawnIncrementSpeed: 2
   },
   difficile: {
     label: "Difficile",
-    phraseTimeLimit: 10,
+    phraseTimeLimit: 15,
     timeBonusOnSuccess: 4,
     costRange: [3, 5],
     spawnIncrementSpeed: 3
