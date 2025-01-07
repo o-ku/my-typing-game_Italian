@@ -174,14 +174,14 @@ const DIFFICULTY_SETTINGS = {
   },
   medio: {
     label: "Medio",
-    phraseTimeLimit: 5,
+    phraseTimeLimit: 8,
     timeBonusOnSuccess: 3,
     costRange: [2, 4],
     spawnIncrementSpeed: 2
   },
   difficile: {
     label: "Difficile",
-    phraseTimeLimit: 6,
+    phraseTimeLimit: 10,
     timeBonusOnSuccess: 4,
     costRange: [3, 5],
     spawnIncrementSpeed: 3
